@@ -1,2 +1,2 @@
-# bubble-Sort
+# Bubble-Sort
 Bubble sort passo a passo modo console C#
